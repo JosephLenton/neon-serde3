@@ -1,9 +1,10 @@
 [package]
-name = "neon-serde2"
+name = "neon-serde3"
 version = "0.10.0"
 authors = [
     "Damir Jelić <poljar@termina.org.uk>",
-    "Gabriel Castro <dev@GabrielCastro.ca>"
+    "Gabriel Castro <dev@GabrielCastro.ca>",
+    "Joseph Lenton <josephlenton@gmail.com>"
 ]
 description = "Easily serialize object for use with neon, fork of neon-serde"
 license = "MIT"

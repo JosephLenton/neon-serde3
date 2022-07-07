@@ -1,6 +1,21 @@
 Neon-serde
 ==========
 
+## PLEASE READ
+
+I am not the real author of this crate.
+
+This is a fork of neon-serde2. It's currently only compatible with Neon 0.8.0,
+however Neon is now on version 0.10.0.
+
+I have taken a PR from here https://github.com/matrix-org/neon-serde/pull/2 (which I didn't write),
+put it into a repo, named it 'neon-serde3', and pushed it to crates.io.
+This was for my needs.
+
+If you need to use neon-serde with neon 0.10.0, then feel free to try this crate.
+
+## Intro
+
 This is a fork of the official neon-serde project. The project became stale and
 stopped following neon releases.
 
